@@ -1,0 +1,5 @@
+note_id,source,sheet,table,marker,applies_to,text
+T1-a,NIPA-Tables-2026.xlsx,Table 1,1,a,T1-R016,"Includes Social Security taxes, Medicare taxes and premiums, and unemployment insurance taxes."
+T1-b,NIPA-Tables-2026.xlsx,Table 1,1,b,T1-R046,Negative numbers indicate that federal current expenditures exceed federal current receipts.
+T2-a,NIPA-Tables-2026.xlsx,Table 2,2,a,T2-R013 | T2-R058,Mostly estate and gift taxes.
+T2-b,NIPA-Tables-2026.xlsx,Table 2,2,b,T2-R065,Negative numbers indicate that federal current expenditures exceed federal current receipts.
